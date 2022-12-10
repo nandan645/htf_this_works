@@ -1,0 +1,1 @@
+git config --global http.proxy http://gateway.iitmandi.ac.in:8080
