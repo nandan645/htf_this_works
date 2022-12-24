@@ -1,4 +1,4 @@
-### Using Netsh command to import proxy settings from Internet Options to WinHTTP.
+## Using Netsh command to import proxy settings from Internet Options to WinHTTP.
 
 Before you do this setup your Windows Proxy settings and then follow these steps:
 
